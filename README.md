@@ -1,5 +1,9 @@
 # HTTP Proxy Server
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
+
 This project configures an HTTP proxy server using Node.js, Express, and `http-proxy`. It is designed to forward requests from a frontend application to a backend API, manage CORS issues, and provide basic logging capabilities.
 
 ## Getting Started
@@ -95,4 +99,4 @@ This will start the server in a Docker container and expose it on port 4000 of y
 
 ## License
 
-This project is licensed under the ISC License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
